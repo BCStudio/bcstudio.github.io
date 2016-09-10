@@ -1,1 +1,1 @@
-# Visit us at bcstudio.github.io [![Go_to_site](https://bcstudio.git.io)]
+# Visit us at bcstudio.github.io [![Go](https://bcstudio.git.io)]
